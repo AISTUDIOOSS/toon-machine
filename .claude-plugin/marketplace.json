@@ -1,0 +1,14 @@
+{
+  "name": "toon-machine",
+  "owner": {
+    "name": "Slowdoown / AI Studio Club"
+  },
+  "plugins": [
+    {
+      "name": "toon-machine",
+      "source": "./",
+      "description": "Make vertical 9:16 cartoon story shorts fully in code (three.js + Remotion) with a narrated voice."
+    }
+  ],
+  "description": "Toon Machine: tell a story, get a vertical cartoon short made in code."
+}
